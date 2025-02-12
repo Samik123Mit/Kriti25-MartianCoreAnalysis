@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Martian Core Analysis
 
 ## Overview
