@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Martian Core Analysis
 
 ## Overview
@@ -66,3 +67,6 @@ The project aims to model seismic wave propagation in Mars' interior using synth
 - Advanced Anomaly Detection: Implement deep learning models for real-time anomaly detection in seismic data.
 - Model Improvement: Integrate more complex physical constraints for more accurate predictions.
 - Real-time Integration: Extend the system to process real-time seismic data from Mars.
+=======
+# Kriti25-MartianCoreAnalysis
+>>>>>>> e92d81e019ae41072269cfb2d0511c51f644d265
